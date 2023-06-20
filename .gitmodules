@@ -1,3 +1,6 @@
 [submodule "src/pca9685"]
 	path = src/pca9685
 	url = https://github.com/OliverP10/pca9685
+[submodule "src/mdd3a"]
+	path = src/mdd3a
+	url = https://github.com/OliverP10/mdd3a

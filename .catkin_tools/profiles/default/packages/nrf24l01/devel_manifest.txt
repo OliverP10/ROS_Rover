@@ -1,17 +1,25 @@
 nrf24l01
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/cmake.lock /home/ubuntu/catkin_ws/devel/./cmake.lock
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/include/nrf24l01/radio.h /home/ubuntu/catkin_ws/devel/include/nrf24l01/radio.h
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/include/nrf24l01/Radio.h /home/ubuntu/catkin_ws/devel/include/nrf24l01/Radio.h
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/pkgconfig/nrf24l01.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/nrf24l01.pc
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/python3/dist-packages/nrf24l01/__init__.py /home/ubuntu/catkin_ws/devel/lib/python3/dist-packages/nrf24l01/__init__.py
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/python3/dist-packages/nrf24l01/msg/_radio.py /home/ubuntu/catkin_ws/devel/lib/python3/dist-packages/nrf24l01/msg/_radio.py
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/python3/dist-packages/nrf24l01/msg/_Radio.py /home/ubuntu/catkin_ws/devel/lib/python3/dist-packages/nrf24l01/msg/_Radio.py
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/python3/dist-packages/nrf24l01/msg/__init__.py /home/ubuntu/catkin_ws/devel/lib/python3/dist-packages/nrf24l01/msg/__init__.py
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/nrf24l01/cmake.lock /home/ubuntu/catkin_ws/devel/lib/nrf24l01/cmake.lock
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/lib/nrf24l01/nrf24l01.py /home/ubuntu/catkin_ws/devel/lib/nrf24l01/nrf24l01.py
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/roseus/ros/nrf24l01/manifest.l /home/ubuntu/catkin_ws/devel/share/roseus/ros/nrf24l01/manifest.l
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/roseus/ros/nrf24l01/msg/radio.l /home/ubuntu/catkin_ws/devel/share/roseus/ros/nrf24l01/msg/radio.l
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/roseus/ros/nrf24l01/msg/Radio.l /home/ubuntu/catkin_ws/devel/share/roseus/ros/nrf24l01/msg/Radio.l
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/radio.lisp /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/radio.lisp
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/_package_radio.lisp /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/_package_radio.lisp
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/Radio.lisp /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/Radio.lisp
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/nrf24l01-msg.asd /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/nrf24l01-msg.asd
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/_package.lisp /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/_package.lisp
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/common-lisp/ros/nrf24l01/msg/_package_Radio.lisp /home/ubuntu/catkin_ws/devel/share/common-lisp/ros/nrf24l01/msg/_package_Radio.lisp
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/gennodejs/ros/nrf24l01/_index.js /home/ubuntu/catkin_ws/devel/share/gennodejs/ros/nrf24l01/_index.js
+/home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/gennodejs/ros/nrf24l01/msg/Radio.js /home/ubuntu/catkin_ws/devel/share/gennodejs/ros/nrf24l01/msg/Radio.js
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/gennodejs/ros/nrf24l01/msg/_index.js /home/ubuntu/catkin_ws/devel/share/gennodejs/ros/nrf24l01/msg/_index.js
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/gennodejs/ros/nrf24l01/msg/radio.js /home/ubuntu/catkin_ws/devel/share/gennodejs/ros/nrf24l01/msg/radio.js
 /home/ubuntu/catkin_ws/devel/.private/nrf24l01/share/nrf24l01/cmake/nrf24l01-msg-paths.cmake /home/ubuntu/catkin_ws/devel/share/nrf24l01/cmake/nrf24l01-msg-paths.cmake

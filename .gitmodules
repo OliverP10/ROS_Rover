@@ -4,6 +4,3 @@
 [submodule "src/mdd3a"]
 	path = src/mdd3a
 	url = https://github.com/OliverP10/mdd3a
-[submodule "src/nrf24l01"]
-	path = src/nrf24l01
-	url = https://github.com/OliverP10/nrf24l01
